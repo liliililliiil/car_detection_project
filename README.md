@@ -1,2 +1,2 @@
-# my-projects
+# car detection project
 :)
